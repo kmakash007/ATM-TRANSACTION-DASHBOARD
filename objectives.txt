@@ -1,0 +1,7 @@
+The Power BI dashboard visualizes ATM withdrawal patterns across various locations. 
+The key metrics analyzed include the total number of withdrawals, amounts withdrawn 
+by different card types, and daily trends segmented by weekdays and holidays. 
+By analyzing these factors, the dashboard provides actionable insights for optimizing ATM 
+operations, improving cash management, and enhancing customer service efficiency based on 
+usage patterns. This data-driven approach can help banks and financial institutions in 
+strategic decision-making.
